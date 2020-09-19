@@ -1,2 +1,2 @@
-popup and show line per line food
-show with color on menu which items were ordered
+output otal1, total2 should be a rectangle not a paralellogram
+is count < 101 should reverse the yes no arrows
