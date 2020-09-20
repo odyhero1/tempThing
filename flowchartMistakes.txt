@@ -1,2 +1,5 @@
-output otal1, total2 should be a rectangle not a paralellogram
-is count < 101 should reverse the yes no arrows
+at the start where the variables are defined, total2 is written as total 2. This is wrong because variables cant take names with space in them.
+output total1,total2 should be a rectangle not a paralellogram
+they should be below each other output and end
+ 
+As the program wants us to get 10 temperatures only, the is count <101 should be replaced with count < 11
